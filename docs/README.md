@@ -1,2 +1,0 @@
-# report-cypress
-report-cypress
